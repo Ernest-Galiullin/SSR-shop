@@ -48,7 +48,7 @@
 1. Клонирование репозитория
 
    ```sh
-   git clone https://github.com/
+   git clone https://github.com/Ernest-Galiullin/SSR-shop
    ```
 
 2. Установка зависимостей
